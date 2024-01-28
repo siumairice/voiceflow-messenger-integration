@@ -1,2 +1,1 @@
-# voiceflow-wechat-integratio
-Voiceflow WeChat integration
+# Voiceflow WeChat Integration
