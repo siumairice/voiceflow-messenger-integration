@@ -2,7 +2,7 @@
 
 1. Fill in the `.env-template`  file then rename it to `.env`
 
-`mv .env-template .env`
+```mv .env-template .env```
 
 2. Run `npm install` to install necessary dependencies
 
